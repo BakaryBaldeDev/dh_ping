@@ -1,6 +1,6 @@
 # projet_direct_hospital
 
-A new Flutter application.
+Projet DH
 
 ## Getting Started
 

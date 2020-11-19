@@ -1,6 +1,6 @@
 # projet_direct_hospital
 
-Projet DH l'arna
+Projet DH l'arnaque
 
 ## Getting Started
 
